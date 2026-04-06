@@ -125,10 +125,10 @@ _European Conference on Machine Learning and Principles and Practice of Knowledg
 <div class="collaboration-line">
     <div class="collaboration-text">
         <ul class="collaboration-list">
-            <li>2025.11 - Now, Research Intern, Wechat Pay, Tencent, China.</li>
+            <li><em>2025.11 - Now</em>, Research Intern, Wechat Pay, Tencent, China.</li>
         </ul>
     </div>
     <div class="logos-container">
-        <img src="images/logo/wechat.png" alt="WeChat Logo" class="collaboration-logo">
+        <img src="images/logo/wechat.png" alt="WeChat Logo" class="collaboration-logo collaboration-logo--large">
     </div>
 </div>
