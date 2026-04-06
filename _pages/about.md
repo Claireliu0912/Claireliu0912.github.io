@@ -21,7 +21,7 @@ redirect_from:
 
 I am a Master student in Computer Science and Technology at Tongji University, and I completed my undergraduate studies at Tongji University.
 
-My research interest lies at the intersection of Graph Deep Learning and its practical applications in FinTech. I am particularly focused on developing advanced models for Financial Anti-Fraud, leveraging the power of Graph Neural Networks to detect and prevent illicit activities in complex financial systems.
+My research interest is graph neural networks, data mining in finance, machine learning.
 
 I am actively seeking academic collaborations where I can contribute to cutting-edge research and make a meaningful impact.
 
@@ -33,6 +33,15 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 - _2022.02_: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/paper/AAAI2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Role Perceptual Augmented Temporal Graph Network for Related-party Transaction Detection](https://ojs.aaai.org/index.php/AAAI/article/view/41240)
+
+**<u>Xin Liu</u>**, Yuanhang Yu, Peng Zhu, Dawei Cheng, Changjun Jiang
+
+_the AAAI Conference on Artificial Intelligence (WWW), 2026_
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/paper/WWW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -108,6 +117,15 @@ _European Conference on Machine Learning and Principles and Practice of Knowledg
 - _2024.09 - 2027.03 (now)_, M.S., Tongji University, China. (Advisor: Prof. Dawei Cheng)
 - _2020.09 - 2024.06_, B.S., Tongji University, China.
 
-<!-- # 💻 Internships
+# 💻 Internships
 
-- _2019.05 - 2020.02_, [Lorem](https://github.com/), China. -->
+<div class="collaboration-line">
+    <div class="collaboration-text">
+        <ul class="collaboration-list">
+            <li>_2025.11 - _ Research Intern, Wechat Pay, Tencent, China.</li>
+        </ul>
+    </div>
+    <div class="logos-container">
+        <img src="images/logo/wechat.png" alt="WeChat Logo" class="collaboration-logo">
+    </div>
+</div>
