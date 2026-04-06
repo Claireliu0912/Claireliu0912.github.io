@@ -43,6 +43,9 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 _the AAAI Conference on Artificial Intelligence (WWW), 2026_
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/paper/WWW2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -122,7 +125,7 @@ _European Conference on Machine Learning and Principles and Practice of Knowledg
 <div class="collaboration-line">
     <div class="collaboration-text">
         <ul class="collaboration-list">
-            <li>_2025.11 - _ Research Intern, Wechat Pay, Tencent, China.</li>
+            <li>2025.11 - Now, Research Intern, Wechat Pay, Tencent, China.</li>
         </ul>
     </div>
     <div class="logos-container">
