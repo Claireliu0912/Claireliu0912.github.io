@@ -50,7 +50,7 @@ _the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026_
             </ul>
         </div>
         <div class="logos-container">
-                <img src="images/logo/wechat.png" alt="WeChat Logo" class="collaboration-logo">
+                <img src="images/logo/wechat.png" alt="WeChat Logo" class="collaboration-logo collaboration-logo--large">
         </div>
 </div>
 
