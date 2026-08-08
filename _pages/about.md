@@ -34,6 +34,29 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2026</div><img src='images/paper/KDD2026.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning](https://dl.acm.org/doi/10.1145/3770855.3818397)
+
+**<u>Xin Liu</u>**, Xiyuan Chen, Chenglong Wu, Xuan Zong, Jun Zhou, Dawei Cheng
+
+_the ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD), 2026_
+
+<div class="collaboration-line">
+        <div class="collaboration-text">
+            <ul class="collaboration-list">
+                <li>Collaboration with Weixin Pay, Tencent</li>
+            </ul>
+        </div>
+        <div class="logos-container">
+                <img src="images/logo/wechat.png" alt="WeChat Logo" class="collaboration-logo">
+        </div>
+</div>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/paper/AAAI2026.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -41,7 +64,7 @@ I am actively seeking academic collaborations where I can contribute to cutting-
 
 **<u>Xin Liu</u>**, Yuanhang Yu, Peng Zhu, Dawei Cheng, Changjun Jiang
 
-_the AAAI Conference on Artificial Intelligence (WWW), 2026_
+_the AAAI Conference on Artificial Intelligence (AAAI), 2026_
 
 </div>
 </div>
@@ -53,7 +76,7 @@ _the AAAI Conference on Artificial Intelligence (WWW), 2026_
 
 **<u>Xin Liu</u>**, Haojun Rui, Dawei Cheng, Li Han, Zhongyun Zhou, Guoping Zhao
 
-_The ACM Web Conference (WWW), 2025_
+_the ACM Web Conference (WWW), 2025_
 
 <div class="collaboration-line">
         <div class="collaboration-text">
